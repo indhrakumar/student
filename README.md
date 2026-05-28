@@ -1,9 +1,15 @@
 # For My practice
-## student management system
- Using HTML Tailwind and JavaScript ## Using Local storage
-## features
-ADD student
-Display
+## Student management system
+
+
+ ## Using Local storage
+ Using HTML Tailwind and JavaScript
+
+ 
+## Features
+### ADD Student
+### Display Student
+
 
 
 
